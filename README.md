@@ -1,2 +1,2 @@
 # Face-Recognition-Using-Haar-Cascade
-  Crate a bounding box around the face .
+ Detect face and Crate a bounding box around the face .
