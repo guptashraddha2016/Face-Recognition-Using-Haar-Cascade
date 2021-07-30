@@ -3,5 +3,5 @@
  
 # File Description
   1. Face Recognition using Haar Cascade (jupyter notebook)
-  2. 
+  2. README FILE
  
