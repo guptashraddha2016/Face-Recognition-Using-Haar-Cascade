@@ -1,2 +1,7 @@
 # Face-Recognition-Using-Haar-Cascade
- Detect face and Crate a bounding box around the face .
+ Detect a face using OpenCV library.
+ 
+# File Description
+  1. Face Recognition using Haar Cascade (jupyter notebook)
+  2. 
+ 
