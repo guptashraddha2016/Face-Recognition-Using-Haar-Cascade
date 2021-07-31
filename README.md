@@ -1,5 +1,5 @@
 # Face-Recognition-Using-Haar-Cascade
- Detect a face using OpenCV library.
+  Face Detection using Haar Cascade.
  
 # File Description
   1. Face Recognition using Haar Cascade (jupyter notebook)
