@@ -7,4 +7,4 @@
   3. Image File
  
  # Explaination 
-   Using OpenCV python library detect a face and create a bounding box around the face.
+   Using OpenCV python library and haarcscade xml files, detect a face and create a bounding box around the face.
