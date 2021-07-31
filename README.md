@@ -7,4 +7,4 @@
   3. Image File
  
  # Explaination 
-   Using OpenCV python library detect a face and create a bounding box.
+   Using OpenCV python library detect a face and create a bounding box around the face.
