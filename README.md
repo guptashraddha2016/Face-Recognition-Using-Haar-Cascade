@@ -8,3 +8,4 @@
  
  # Explaination 
   Using OpenCV python library and haarcscade xml files detect the face and create a bounding box around the face.
+  Haar Cascade is a machine learning-based approach where a lot of positive and negative images are used to train the classifier. 
